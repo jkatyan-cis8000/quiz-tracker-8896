@@ -1,0 +1,3 @@
+# Config
+
+Constants, settings, environment.

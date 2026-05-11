@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the capital of France?",
+      "choices": [
+        {"id": "a1", "text": "Berlin"},
+        {"id": "a2", "text": "Madrid"},
+        {"id": "a3", "text": "Paris"},
+        {"id": "a4", "text": "Rome"}
+      ],
+      "correct_choice_id": "a3"
+    },
+    {
+      "id": "q2",
+      "text": "Which planet is known as the Red Planet?",
+      "choices": [
+        {"id": "a1", "text": "Venus"},
+        {"id": "a2", "text": "Mars"},
+        {"id": "a3", "text": "Jupiter"},
+        {"id": "a4", "text": "Saturn"}
+      ],
+      "correct_choice_id": "a2"
+    },
+    {
+      "id": "q3",
+      "text": "What is the largest ocean on Earth?",
+      "choices": [
+        {"id": "a1", "text": "Atlantic Ocean"},
+        {"id": "a2", "text": "Indian Ocean"},
+        {"id": "a3", "text": "Arctic Ocean"},
+        {"id": "a4", "text": "Pacific Ocean"}
+      ],
+      "correct_choice_id": "a4"
+    },
+    {
+      "id": "q4",
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "choices": [
+        {"id": "a1", "text": "Charles Dickens"},
+        {"id": "a2", "text": "William Shakespeare"},
+        {"id": "a3", "text": "Mark Twain"},
+        {"id": "a4", "text": "Jane Austen"}
+      ],
+      "correct_choice_id": "a2"
+    },
+    {
+      "id": "q5",
+      "text": "What is the chemical symbol for gold?",
+      "choices": [
+        {"id": "a1", "text": "Au"},
+        {"id": "a2", "text": "Ag"},
+        {"id": "a3", "text": "Fe"},
+        {"id": "a4", "text": "Pb"}
+      ],
+      "correct_choice_id": "a1"
+    },
+    {
+      "id": "q6",
+      "text": "In which year did the Titanic sink?",
+      "choices": [
+        {"id": "a1", "text": "1905"},
+        {"id": "a2", "text": "1912"},
+        {"id": "a3", "text": "1920"},
+        {"id": "a4", "text": "1935"}
+      ],
+      "correct_choice_id": "a2"
+    },
+    {
+      "id": "q7",
+      "text": "What is the hardest natural substance on Earth?",
+      "choices": [
+        {"id": "a1", "text": "Gold"},
+        {"id": "a2", "text": "Iron"},
+        {"id": "a3", "text": "Diamond"},
+        {"id": "a4", "text": "Platinum"}
+      ],
+      "correct_choice_id": "a3"
+    },
+    {
+      "id": "q8",
+      "text": "Which country is home to the kangaroo?",
+      "choices": [
+        {"id": "a1", "text": "New Zealand"},
+        {"id": "a2", "text": "South Africa"},
+        {"id": "a3", "text": "Australia"},
+        {"id": "a4", "text": "Brazil"}
+      ],
+      "correct_choice_id": "a3"
+    },
+    {
+      "id": "q9",
+      "text": "What is the smallest prime number?",
+      "choices": [
+        {"id": "a1", "text": "0"},
+        {"id": "a2", "text": "1"},
+        {"id": "a3", "text": "2"},
+        {"id": "a4", "text": "3"}
+      ],
+      "correct_choice_id": "a3"
+    },
+    {
+      "id": "q10",
+      "text": "Which element has the atomic number 1?",
+      "choices": [
+        {"id": "a1", "text": "Helium"},
+        {"id": "a2", "text": "Hydrogen"},
+        {"id": "a3", "text": "Lithium"},
+        {"id": "a4", "text": "Carbon"}
+      ],
+      "correct_choice_id": "a2"
+    },
+    {
+      "id": "q11",
+      "text": "What is the currency of Japan?",
+      "choices": [
+        {"id": "a1", "text": "Yuan"},
+        {"id": "a2", "text": "Won"},
+        {"id": "a3", "text": "Yen"},
+        {"id": "a4", "text": "Dollar"}
+      ],
+      "correct_choice_id": "a3"
+    },
+    {
+      "id": "q12",
+      "text": "Who painted the Mona Lisa?",
+      "choices": [
+        {"id": "a1", "text": "Vincent van Gogh"},
+        {"id": "a2", "text": "Pablo Picasso"},
+        {"id": "a3", "text": "Leonardo da Vinci"},
+        {"id": "a4", "text": "Claude Monet"}
+      ],
+      "correct_choice_id": "a3"
+    }
+  ]
+}
